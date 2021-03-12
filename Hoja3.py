@@ -30,7 +30,7 @@ while Seguir ==True:
 
     while Opcion>4 or 1>Opcion:
         print("Digita un numero dentro de las opciones mostradas")
-        print("1.Asteriscos.\n2.Cuenta regresiva.\n3.Verificacion de numero primo.")
+        print("1.Verificacion contraseña.\n2.Grupos.\n3Terminar.")
         Opcion = int (input(">"))
 
 
